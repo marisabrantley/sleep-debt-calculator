@@ -1,6 +1,6 @@
 # Sleep Debt Calculator Project
 
-Do you get enough sleep? In this Codecademy functions project, we created a JavaScript program to determine:
+Do you get enough sleep? In this Codecademy JavaScript functions project, we created a program to determine:
 
 1. Whether you’re getting enough sleep each week;
 
