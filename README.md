@@ -17,4 +17,4 @@ Do you get enough sleep? In this Codecademy JavaScript functions project, we cre
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Functions - JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax.
+JavaScript Syntax: Functions, Part I - JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax.
